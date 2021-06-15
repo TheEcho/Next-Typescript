@@ -1,0 +1,12 @@
+.list {
+}
+
+.listItem {
+    display: inline-block;
+    width: 45%;
+    height: auto;
+    margin: 2%;
+}
+.listItem:hover {
+    cursor: pointer;
+}
