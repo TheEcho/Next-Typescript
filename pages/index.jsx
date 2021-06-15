@@ -3,7 +3,7 @@ import Head from 'next/head';
 import Layout, { siteTitle } from '../components/layout';
 import utilStyles from '../styles/utils.module.css';
 
-export default function Home() {
+function Home() {
     return (
         <Layout home>
             <Head>
@@ -20,3 +20,5 @@ export default function Home() {
         </Layout>
     );
 }
+
+export default Home;
