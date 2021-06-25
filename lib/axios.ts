@@ -1,13 +1,13 @@
 /* eslint-disable no-undef */
-import axios from 'axios';
+import axios, { AxiosRequestConfig } from 'axios';
 
-const baseUrl = 'https://api.nasa.gov';
+const baseUrl: string = 'https://api.nasa.gov';
 
 const Axios = axios.create({
     baseURL: baseUrl
 });
 
-Axios.interceptors.request.use(config => {
+Axios.interceptors.request.use((config: AxiosRequestConfig) => {
     config.params = {
         api_key: 'hv8zQ2duuo1r9SCUIHdY3xIktyPPDRUjotggqjZV',
         ...config.params
