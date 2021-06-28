@@ -1,5 +1,9 @@
 import moment from 'moment';
 
-export default function getLastXDates(i: number) {
-    return [...Array(i).keys()].map((i) => moment().subtract(i, 'day').format('YYYY-MM-DD'));
+export default function getLastXDates(i: number, offset: number = 0) {
+    const data: string[] = [];
+    for (let index: number = offset; index < i + offset; index++) {
+        data.push(moment().subtract(index, 'day').format('YYYY-MM-DD'));
+    }
+    return data;
 }

@@ -5,17 +5,27 @@ import Link from 'next/link';
 import {
     withStyles,
     createStyles,
-    Paper
+    Paper,
+    Theme
 } from '@material-ui/core';
 import { WithStyles } from '@material-ui/styles';
 import nasaLogo from '@/public/images/nasa-logo.png';
 
-export const siteTitle = 'NASA Pictures';
-const styles = createStyles({
+export const siteTitle = 'Astronomy Picture of the Day';
+const styles = (theme: Theme) => createStyles({
     container: {
-        maxWidth: '730px',
-        margin: '2rem auto 0',
-        padding: '1rem'
+        margin: '2rem auto',
+        padding: '1rem',
+        [theme.breakpoints.down('sm')]: {
+            maxWidth: '100%',
+            margin: '0'
+        },
+        [theme.breakpoints.down('xl')]: {
+            maxWidth: '960px'
+        },
+        [theme.breakpoints.up('xl')]: {
+            maxWidth: '1280px'
+        }
     },
     header: {
         display: 'flex',

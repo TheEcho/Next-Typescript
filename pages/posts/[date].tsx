@@ -100,7 +100,7 @@ export const getStaticPaths: GetStaticPaths = () => ({
             date
         }
     })),
-    fallback: false
+    fallback: true
 });
 
 export default withStyles(styles)(PostPage);

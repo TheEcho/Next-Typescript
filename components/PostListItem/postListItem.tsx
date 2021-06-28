@@ -7,9 +7,11 @@ import {
     Card,
     CardHeader,
     CardMedia,
-    CardActions,
-    Button
+    IconButton
 } from '@material-ui/core';
+import {
+    ArrowForwardIos
+} from '@material-ui/icons';
 import { WithStyles } from '@material-ui/styles';
 import moment from 'moment';
 
@@ -17,9 +19,13 @@ const styles = createStyles({
     root: {
         margin: '1rem'
     },
+    cardMedia: {
+        marginBottom: '-6px'
+    },
     image: {
         height: 'auto',
-        width: '100%'
+        width: '100%',
+        borderRadius: '0 0 4px 4px'
     },
     videoContainer: {
         position: 'relative',
@@ -48,8 +54,17 @@ function PostListItem(props: Props): JSX.Element {
             <CardHeader
               title={data.title}
               subheader={moment(data.date).format('dddd, MMMM Do YYYY')}
+              action={(
+                  <Link href={{ pathname: '/posts/[date]', query: { date: data.date } }}>
+                      <a>
+                          <IconButton>
+                              <ArrowForwardIos />
+                          </IconButton>
+                      </a>
+                  </Link>
+              )}
             />
-            <CardMedia>
+            <CardMedia className={classes.cardMedia}>
                 { data.mediaType === 'image' && (
                     <img className={classes.image} src={data.url} alt={data.title} />
                 )}
@@ -59,15 +74,6 @@ function PostListItem(props: Props): JSX.Element {
                     </div>
                 )}
             </CardMedia>
-            <CardActions>
-                <Link href={{ pathname: '/posts/[date]', query: { date: data.date } }}>
-                    <a>
-                        <Button variant="outlined" color="primary" size="small">
-                            Learn More
-                        </Button>
-                    </a>
-                </Link>
-            </CardActions>
         </Card>
     );
 }
