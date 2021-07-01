@@ -6,7 +6,7 @@ import { AxiosResponse } from 'axios';
 import Post from '@/types/Post';
 import Layout, { siteTitle } from '@/components/Layout/layout';
 import PageListItem from '@/components/PostListItem/postListItem';
-import Axios from '@/lib/axios';
+import API from '@/lib/axios';
 import getLastXDates from '@/lib/getLastXDates';
 import {
     Grid,
@@ -77,15 +77,17 @@ function Home(props: Props): JSX.Element {
 export const getServerSideProps: GetServerSideProps = async ({ query }: GetServerSidePropsContext) => {
     const offset: number = ((Number(query?.page) || 1) - 1) * 5;
 
-    const data: Post[] = await Promise.all(getLastXDates(5, offset).map((date: string) => Axios.get('/planetary/apod', {
-        params: { date }
-    }).then((res: AxiosResponse) => ({
-        url: res.data.url,
-        title: res.data.title,
-        explanation: res.data.explanation,
-        date: res.data.date,
-        mediaType: res.data.media_type
-    }))));
+    const data: Post[] = await Promise.all(getLastXDates(5, offset).map(
+        (date: string) => API.nasa.get('/planetary/apod', {
+            params: { date }
+        }).then((res: AxiosResponse) => ({
+            url: res.data.url,
+            title: res.data.title,
+            explanation: res.data.explanation,
+            date: res.data.date,
+            mediaType: res.data.media_type
+        }))
+    ));
     return {
         props: { data, page: Number(query?.page) || 1 }
     };

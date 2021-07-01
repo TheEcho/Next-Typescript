@@ -3,6 +3,7 @@ import type { AppProps } from 'next/app';
 import Head from 'next/head';
 import CssBaseline from '@material-ui/core/CssBaseline';
 import '@/styles/index.css';
+import 'leaflet/dist/leaflet.css';
 
 export default function App({ Component, pageProps }: AppProps) {
     React.useEffect(() => {

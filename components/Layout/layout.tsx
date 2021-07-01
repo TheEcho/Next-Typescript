@@ -38,7 +38,7 @@ const styles = (theme: Theme) => createStyles({
 });
 
 interface Props extends WithStyles<typeof styles> {
-    children: JSX.Element[];
+    children: JSX.Element[] | JSX.Element;
     home?: boolean;
 }
 
@@ -54,13 +54,17 @@ function Layout(props: Props): JSX.Element {
             </Head>
             <header className={classes.header}>
                 <>
-                    <Image
-                      priority
-                      src={nasaLogo}
-                      alt={siteTitle}
-                      height={200}
-                      width={400}
-                    />
+                    <Link href="/map">
+                        <a>
+                            <Image
+                              priority
+                              src={nasaLogo}
+                              alt={siteTitle}
+                              height={200}
+                              width={400}
+                            />
+                        </a>
+                    </Link>
                     <h1>{siteTitle}</h1>
                 </>
             </header>
