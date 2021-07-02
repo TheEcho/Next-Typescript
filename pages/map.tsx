@@ -37,7 +37,8 @@ function Map(props: Props): JSX.Element {
 }
 
 export const getServerSideProps: GetServerSideProps = async () => {
-    const data: Customer[] = await API.db.get('/gps').then((res: AxiosResponse) => res.data.customers);
+    const data: Customer[] = await API.db.get('/gps')
+        .then((res: AxiosResponse) => res.data.customers);
     return {
         props: { data }
     };
