@@ -4,5 +4,9 @@
     "port": 3306,
     "username": "user",
     "password": "password",
-    "database": "komet-api-master"
+    "database": "nextjs",
+    "synchronize": true,
+    "entities": [
+        "server/database/entity/**/*.ts"
+    ]
 }

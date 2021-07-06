@@ -1,0 +1,4708 @@
+{
+    "customers": [
+        {
+            "displayName": "Korian Lo Solelh",
+            "latitude": 43.346392,
+            "longitude": 3.2293006,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Pins Bleus",
+            "latitude": 43.07541,
+            "longitude": 5.927237,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Frontenac",
+            "latitude": 43.241213,
+            "longitude": 2.122601,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Vernède",
+            "latitude": 43.23364,
+            "longitude": 2.433893,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Luberons",
+            "latitude": 43.6645911,
+            "longitude": 5.4422629,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Oliviers",
+            "latitude": 43.6620704,
+            "longitude": 5.4372055,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Domaine Saint-Michel",
+            "latitude": 43.6644863,
+            "longitude": 7.1822089,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Parents",
+            "latitude": 43.2810619,
+            "longitude": 5.3915337,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Perier",
+            "latitude": 43.2795335,
+            "longitude": 5.381525,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Bastion",
+            "latitude": 43.2104728,
+            "longitude": 2.3551828,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Meunières",
+            "latitude": 43.6756917,
+            "longitude": 4.13812,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Aubier de Cybèle",
+            "latitude": 43.4615796,
+            "longitude": 6.7675585,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Sorgentino",
+            "latitude": 43.7071802,
+            "longitude": 7.2880757,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian L'Agora",
+            "latitude": 43.5670696,
+            "longitude": 5.6142558,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Château des Ollières",
+            "latitude": 43.6948682,
+            "longitude": 7.2475577,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Mas de Lauze",
+            "latitude": 43.825481,
+            "longitude": 4.315163,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Trois Tours",
+            "latitude": 43.3807483,
+            "longitude": 5.5976562,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Centre SSR Les 4 Fontaines",
+            "latitude": 43.1592566,
+            "longitude": 2.9696789,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Jardins d'Hugo",
+            "latitude": 48.2846155,
+            "longitude": 4.0281147,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Château Lemoine",
+            "latitude": 44.8470633,
+            "longitude": -0.5294548,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa Louisa",
+            "latitude": 44.858736,
+            "longitude": -0.5694531,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa Gabriel",
+            "latitude": 44.7834589,
+            "longitude": -0.5986242,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Grand Maison",
+            "latitude": 43.6527575,
+            "longitude": 1.4795498,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Montpribat",
+            "latitude": 43.701002,
+            "longitude": -0.8528803,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Blés d'Or",
+            "latitude": 43.93836,
+            "longitude": 2.0779187,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa Lauragais",
+            "latitude": 43.4541874,
+            "longitude": 1.6109401,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Belvédère",
+            "latitude": 43.5978979,
+            "longitude": -1.4697017,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Grands Chênes",
+            "latitude": 44.8543542,
+            "longitude": -0.623355,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Flots",
+            "latitude": 44.8058939,
+            "longitude": -0.5740325,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Clos des Vignes",
+            "latitude": 47.0402192,
+            "longitude": 4.833771,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Villa Papyri",
+            "latitude": 46.7978251,
+            "longitude": 4.8534679,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Cassissines",
+            "latitude": 47.3534454,
+            "longitude": 5.0511608,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Bel'Saône",
+            "latitude": 46.7868523,
+            "longitude": 4.8559203,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Petit Castel",
+            "latitude": 47.3383604,
+            "longitude": 0.7363567,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Temps Bleus",
+            "latitude": 48.3139625,
+            "longitude": 0.813083,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Reine Blanche",
+            "latitude": 47.8611642,
+            "longitude": 1.8849814,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa D'Azon",
+            "latitude": 48.2142123,
+            "longitude": 3.2808631,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Bégonias",
+            "latitude": 45.9331556,
+            "longitude": -0.9708493,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Ajoncs",
+            "latitude": 46.2001607,
+            "longitude": -0.8164044,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Chamtou",
+            "latitude": 47.3378315,
+            "longitude": 0.7353776,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Roseraie",
+            "latitude": 48.7389902,
+            "longitude": 1.3739692,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa Evora",
+            "latitude": 48.4421165,
+            "longitude": 1.474778,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Rayon d'Or",
+            "latitude": 46.1915225,
+            "longitude": -1.1483646,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Parc De Gasville",
+            "latitude": 48.4897994,
+            "longitude": 1.4351717,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Issambres",
+            "latitude": 45.625601,
+            "longitude": -1.0268982,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Croix Périgourd",
+            "latitude": 47.4174188,
+            "longitude": 0.6555396,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Ménardière",
+            "latitude": 47.4232441,
+            "longitude": 0.6677562,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Côte Pavée",
+            "latitude": 43.5908469,
+            "longitude": 1.4795435,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Val du Fenouillet",
+            "latitude": 43.143095,
+            "longitude": 6.077814,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Chaintréauville",
+            "latitude": 48.2521423,
+            "longitude": 2.6922904,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Ferme du Marais",
+            "latitude": 48.5468432,
+            "longitude": 2.6382186,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa Spinale",
+            "latitude": 48.1624463,
+            "longitude": 6.4475416,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Doubs Rivage",
+            "latitude": 47.4979212,
+            "longitude": 6.8007024,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Plaisance",
+            "latitude": 48.6929932,
+            "longitude": 6.1923151,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian L'Air du Temps",
+            "latitude": 48.5998052,
+            "longitude": 7.7883068,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Vill'Alizé",
+            "latitude": 47.280741,
+            "longitude": 6.0781979,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Pastoria",
+            "latitude": 48.3008516,
+            "longitude": 4.0639809,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Samarobriva",
+            "latitude": 49.8964857,
+            "longitude": 2.2952993,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Marquises",
+            "latitude": 50.6649309,
+            "longitude": 3.0752722,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Gentile",
+            "latitude": 48.6959649,
+            "longitude": 6.1295389,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian L'Age Bleu",
+            "latitude": 50.692314,
+            "longitude": 3.1755024,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Rives de la Zorn",
+            "latitude": 48.7413559,
+            "longitude": 7.3533282,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Trois Sapins",
+            "latitude": 47.7991284,
+            "longitude": 7.1122254,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Fontanière",
+            "latitude": 45.8414664,
+            "longitude": 4.8548586,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian L'Isle Verte",
+            "latitude": 45.1980373,
+            "longitude": 5.7344301,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Annabelles",
+            "latitude": 45.7517914,
+            "longitude": 4.8559179,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Saison Dorée",
+            "latitude": 45.7359137,
+            "longitude": 4.8652915,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Saint François",
+            "latitude": 45.6523561,
+            "longitude": 4.8099888,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian L'Esconda",
+            "latitude": 46.3834702,
+            "longitude": 6.495925,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian L'Astrée",
+            "latitude": 45.4652562,
+            "longitude": 4.4005004,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa Ortis",
+            "latitude": 45.5040138,
+            "longitude": 4.9081693,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Bastide",
+            "latitude": 44.3669419,
+            "longitude": 4.6445807,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Drôme Provençale",
+            "latitude": 44.5912213,
+            "longitude": 4.9518922,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Gleteins",
+            "latitude": 45.9908287,
+            "longitude": 4.7581433,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa Janin",
+            "latitude": 45.4481679,
+            "longitude": 4.3896964,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Mounardière",
+            "latitude": 45.4699904,
+            "longitude": 4.3759642,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Mont Veyrier",
+            "latitude": 45.948243,
+            "longitude": 6.1481857,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa D'Albon",
+            "latitude": 46.039261,
+            "longitude": 4.0667726,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Bellecombe",
+            "latitude": 45.7613348,
+            "longitude": 4.849205,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Mas des Ainés",
+            "latitude": 43.2842596,
+            "longitude": 5.6206191,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Loubière",
+            "latitude": 43.3534214,
+            "longitude": 5.430915,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Val des Sources",
+            "latitude": 43.4305507,
+            "longitude": 5.4379486,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Pompignane",
+            "latitude": 43.6116761,
+            "longitude": 3.8991922,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Riviera",
+            "latitude": 43.6049065,
+            "longitude": 6.9882433,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Alpilles",
+            "latitude": 43.445742,
+            "longitude": 5.250586,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Côte Sauvage",
+            "latitude": 46.2049943,
+            "longitude": -1.5280818,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Mont Ventoux",
+            "latitude": 44.0532372,
+            "longitude": 5.0395694,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Bel Air",
+            "latitude": 48.8132087,
+            "longitude": 2.2584384,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Lilas Bleus",
+            "latitude": 45.7434896,
+            "longitude": 4.8472298,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Alcides",
+            "latitude": 43.537317,
+            "longitude": 5.037699,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Vençay",
+            "latitude": 47.3624372,
+            "longitude": 0.7496223,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Massilia Les Pins",
+            "latitude": 43.2538277,
+            "longitude": 5.4189906,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Clos d'Ypres",
+            "latitude": 45.7826886,
+            "longitude": 4.8174473,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Val Pré",
+            "latitude": 43.2990746,
+            "longitude": 5.5676811,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Cottage",
+            "latitude": 48.9404635,
+            "longitude": 2.2305588,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Grange des Prés",
+            "latitude": 49.1478744,
+            "longitude": 2.4432195,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Coeur Volant",
+            "latitude": 48.8662561,
+            "longitude": 2.1077733,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Jonquières",
+            "latitude": 43.5672542,
+            "longitude": 7.0154477,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Clairefontaine",
+            "latitude": 48.6122198,
+            "longitude": 1.9012406,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Mornay",
+            "latitude": 45.728767725323074,
+            "longitude": -0.6504629732200944,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Glanum",
+            "latitude": 43.7986608,
+            "longitude": 4.8343439,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Jardin de Neptune",
+            "latitude": 48.7856777,
+            "longitude": 2.4957708,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Saint-Charles",
+            "latitude": 48.7785689,
+            "longitude": 2.2856739,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Bonisiaca",
+            "latitude": 48.8902428,
+            "longitude": 2.4878425,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Tulipîer",
+            "latitude": 48.8643767,
+            "longitude": 2.4902837,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Merlettes",
+            "latitude": 48.9868687,
+            "longitude": 2.3723584,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian L'île de Migneaux",
+            "latitude": 48.9231019,
+            "longitude": 2.031925,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Mandoline",
+            "latitude": 48.8970537,
+            "longitude": 2.1489557,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Amandiers",
+            "latitude": 48.8653213,
+            "longitude": 2.3856542,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Saint-Simon",
+            "latitude": 48.8532458,
+            "longitude": 2.4085773,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa Impératrice",
+            "latitude": 48.8745674,
+            "longitude": 2.1837842,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Terrasses de Blandan",
+            "latitude": 45.7432878,
+            "longitude": 4.8506224,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Palatines",
+            "latitude": 43.7034639,
+            "longitude": 7.2870266,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Solisana",
+            "latitude": 47.9158522,
+            "longitude": 7.1942972,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Jardin de Brou",
+            "latitude": 46.1923146,
+            "longitude": 5.2371711,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa du Printemps",
+            "latitude": 47.0848453,
+            "longitude": 2.4160428,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Plessis",
+            "latitude": 47.3832742,
+            "longitude": 0.6616856,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Ranzay",
+            "latitude": 47.2527959,
+            "longitude": -1.5310668,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Corallines",
+            "latitude": 47.2880972,
+            "longitude": -2.3950349,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Val d'Essonne",
+            "latitude": 48.7655406,
+            "longitude": 1.9467108,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Bressane",
+            "latitude": 46.4842409,
+            "longitude": 5.2441334,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Tinailler",
+            "latitude": 46.3510814,
+            "longitude": 4.7950211,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Montvert",
+            "latitude": 43.6842823,
+            "longitude": 1.5528644,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Yvan Roque",
+            "latitude": 44.7287736,
+            "longitude": 0.6080009,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Richelieu",
+            "latitude": 46.674799,
+            "longitude": -1.42267,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Rimandière",
+            "latitude": 43.6343286,
+            "longitude": 4.8104979,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Montfrais",
+            "latitude": 48.9802312,
+            "longitude": 2.2349143,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Paquerie",
+            "latitude": 43.3280004,
+            "longitude": 5.448609,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Colombe",
+            "latitude": 43.5039523,
+            "longitude": 3.7103995,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Gardioles",
+            "latitude": 43.6917746,
+            "longitude": 3.8108589,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Fontaine Bazeille",
+            "latitude": 44.5331479,
+            "longitude": 0.0983177,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Trois Chemins",
+            "latitude": 47.0650905,
+            "longitude": 0.0186682,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Bleu d'Azur",
+            "latitude": 43.5583893,
+            "longitude": 6.9692004,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Coteaux de L'Yvette",
+            "latitude": 48.7042806,
+            "longitude": 2.1649681,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Mont Soleil",
+            "latitude": 44.4659218,
+            "longitude": 6.2247741,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Val de Saune",
+            "latitude": 43.5815495,
+            "longitude": 1.5203891,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Hameau",
+            "latitude": 44.288279,
+            "longitude": 0.508762,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Seillonne",
+            "latitude": 43.6259819,
+            "longitude": 1.5471854,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Grande Prairie",
+            "latitude": 49.2994504,
+            "longitude": 2.4670334,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Agapanthe",
+            "latitude": 46.564043,
+            "longitude": 0.3641058,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Bruyères",
+            "latitude": 45.965428,
+            "longitude": 4.515696,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Haut Lignon",
+            "latitude": 45.066618,
+            "longitude": 4.30524,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian L'Escale du Baou",
+            "latitude": 43.2347987,
+            "longitude": 5.4016773,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Le Doyenné de Langon",
+            "latitude": 44.5464004357808,
+            "longitude": -0.24454117304203,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Rivière Bleue",
+            "latitude": 49.7024011,
+            "longitude": 2.9350396,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Château des Landes",
+            "latitude": 47.674302,
+            "longitude": 1.975114,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Santel",
+            "latitude": 47.6900714,
+            "longitude": 2.6404012,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Val aux Fleurs",
+            "latitude": 48.9367692,
+            "longitude": 1.4192514,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Saint-François du Las",
+            "latitude": 43.1400661,
+            "longitude": 5.8853845,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Détente",
+            "latitude": 48.8889564,
+            "longitude": 2.7437747,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Vallée Bleue",
+            "latitude": 46.7306225,
+            "longitude": 2.5108779,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Flore",
+            "latitude": 48.70065,
+            "longitude": 2.4648253,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Alysses",
+            "latitude": 49.4700479,
+            "longitude": 2.491704,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Bords de la Marque",
+            "latitude": 50.6305048,
+            "longitude": 3.1882957,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Domaine",
+            "latitude": 48.3758002,
+            "longitude": 4.7347317,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Domaine de Collongue",
+            "latitude": 43.5338335,
+            "longitude": 5.509247,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Moussières",
+            "latitude": 45.5516834,
+            "longitude": 4.7177786,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa du Chêne d'Or",
+            "latitude": 48.0776365,
+            "longitude": -0.7078717,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Campelières",
+            "latitude": 43.5801433,
+            "longitude": 7.0077517,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Hameau d'Eguzon",
+            "latitude": 46.445313,
+            "longitude": 1.5782586,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Grand Mas",
+            "latitude": 43.6625187,
+            "longitude": 7.1888342,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Pinède",
+            "latitude": 43.1200727,
+            "longitude": 5.7812186,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Le Platane du Grand Parc",
+            "latitude": 44.8580097991956,
+            "longitude": -0.581754973034465,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa Amarelli",
+            "latitude": 49.2509057,
+            "longitude": 6.127207,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Restanques",
+            "latitude": 43.4506447,
+            "longitude": 5.0207627,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Louisiane",
+            "latitude": 43.1208236,
+            "longitude": 6.1129577,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Cotonnade",
+            "latitude": 47.761475255472625,
+            "longitude": 7.300037411697686,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Palmiers",
+            "latitude": 43.2190672,
+            "longitude": 5.6354576,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Buddléias",
+            "latitude": 46.4727388,
+            "longitude": 1.0743479,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Pays des images",
+            "latitude": 48.1690155,
+            "longitude": 6.4514853,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Baron",
+            "latitude": 47.8989259,
+            "longitude": 1.8855624,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian L'Oradou",
+            "latitude": 45.768113,
+            "longitude": 3.1079,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Carmel",
+            "latitude": 43.2355941,
+            "longitude": 0.0751296,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Lac",
+            "latitude": 47.6354157,
+            "longitude": 6.1059181,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Myrtilles",
+            "latitude": 45.9273449,
+            "longitude": 6.7171522,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Venise Verte",
+            "latitude": 46.3201627,
+            "longitude": -0.4763978,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Clairières aux Chênes",
+            "latitude": 46.6511543,
+            "longitude": 0.3749622,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Risle",
+            "latitude": 48.82054,
+            "longitude": 0.7141128,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Provençale",
+            "latitude": 43.3130796,
+            "longitude": 6.0082923,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Bois Robillard",
+            "latitude": 47.2369156,
+            "longitude": -1.5171088,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Filature",
+            "latitude": 47.7544096,
+            "longitude": 7.3491257,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Arbelles",
+            "latitude": 46.1943518,
+            "longitude": 5.2320349,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Golfe",
+            "latitude": 43.24859,
+            "longitude": 6.5378036,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Mas Blanc",
+            "latitude": 45.6884742,
+            "longitude": -0.1785052,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Jardin de Séréna",
+            "latitude": 48.5184097,
+            "longitude": 2.4468621,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Montjoy",
+            "latitude": 44.9115951,
+            "longitude": 6.6303568,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Hellenides",
+            "latitude": 43.8159473,
+            "longitude": 7.3433864,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Piétat",
+            "latitude": 43.20297,
+            "longitude": 0.1387,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Château",
+            "latitude": 43.4685874,
+            "longitude": 2.0829446,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Maison d'Emilienne",
+            "latitude": 44.7109809,
+            "longitude": 1.904558,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Condamine",
+            "latitude": 44.6739276,
+            "longitude": 4.2202213,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Baou",
+            "latitude": 43.2347987,
+            "longitude": 5.4016773,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Clos Montaigne",
+            "latitude": 45.6466811,
+            "longitude": 4.2343497,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Cyprès",
+            "latitude": 43.924467,
+            "longitude": 4.8842871,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Saint Maurice",
+            "latitude": 46.0005803,
+            "longitude": 1.4699737,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Alma Santé",
+            "latitude": 45.639204,
+            "longitude": 4.238558,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Pins Verts",
+            "latitude": 43.1832106,
+            "longitude": 2.9835716,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Gaston de Foix",
+            "latitude": 43.253017,
+            "longitude": 1.6714516,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Verdon",
+            "latitude": 43.7574757,
+            "longitude": 5.9091406,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Estela",
+            "latitude": 43.5567386,
+            "longitude": 1.4313173,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Claude Bernard",
+            "latitude": 45.720428,
+            "longitude": 4.8088269,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Sainte Geneviève",
+            "latitude": 48.4493586,
+            "longitude": 2.7661027,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Paloumère",
+            "latitude": 44.267667,
+            "longitude": 0.244494,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Terrasses du XXème",
+            "latitude": 48.8629233,
+            "longitude": 2.4034744,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Mathurins",
+            "latitude": 48.7938277,
+            "longitude": 2.3060675,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Bollée-Chanzy",
+            "latitude": 48.0037719,
+            "longitude": 0.202643,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Fils d'Argent",
+            "latitude": 46.4668331,
+            "longitude": -0.8307658,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Bourgenay",
+            "latitude": 46.4985193,
+            "longitude": -1.7791188,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa Balnéaire",
+            "latitude": 48.6320355,
+            "longitude": -2.0568035,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Solidor",
+            "latitude": 48.6321626,
+            "longitude": -2.0147188,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Gambetta",
+            "latitude": 50.6245004,
+            "longitude": 3.0521001,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa des Rèmes",
+            "latitude": 49.2528932,
+            "longitude": 4.0630461,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Georges Morchain",
+            "latitude": 50.1817815,
+            "longitude": 3.2210684,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Mélèzes",
+            "latitude": 48.7714225,
+            "longitude": 5.1808552,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Jardins d'Hestia",
+            "latitude": 45.7510679,
+            "longitude": 4.703259,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Parasols",
+            "latitude": 45.6155549,
+            "longitude": -0.9900805,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Môle d'Angoulins",
+            "latitude": 46.1043174,
+            "longitude": -1.1166658,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Saint-Jean Les Cèdres",
+            "latitude": 45.1611247,
+            "longitude": 1.5015112,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Sarmatia",
+            "latitude": 48.7863824,
+            "longitude": 4.9081511,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Deux Mers",
+            "latitude": 47.5282191,
+            "longitude": -2.7603898,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Fauvettes",
+            "latitude": 46.0029097,
+            "longitude": 5.0338136,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Halage",
+            "latitude": 50.3902861,
+            "longitude": 3.5397617,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Pays des trois provinces",
+            "latitude": 47.228408,
+            "longitude": 2.0504345,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Pays des quatre vents",
+            "latitude": 43.2221146,
+            "longitude": 2.3910241,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Clos de l'Orchidée",
+            "latitude": 43.1457319,
+            "longitude": 2.9707002,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Parc des dames",
+            "latitude": 48.9046309,
+            "longitude": 2.0735508,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Cap Ferrières",
+            "latitude": 43.4229712,
+            "longitude": 5.0387288,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Château de la Couldre",
+            "latitude": 48.7714063,
+            "longitude": 2.0256959,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Balcon Lyonnais",
+            "latitude": 45.7383278,
+            "longitude": 4.7865906,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Clos du Mûrier",
+            "latitude": 47.4035361,
+            "longitude": 0.6118216,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Clavette",
+            "latitude": 46.1395895,
+            "longitude": -1.0298337,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian L'Oregon",
+            "latitude": 46.1502269,
+            "longitude": 0.3040767,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Reflet de Loire",
+            "latitude": 47.8959036,
+            "longitude": 1.8393665,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Ville En Vert",
+            "latitude": 48.839027,
+            "longitude": 0.9101502,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Artémis",
+            "latitude": 47.9849699,
+            "longitude": 0.2826118,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Castelli",
+            "latitude": 48.0249026,
+            "longitude": -0.7720282,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Thalatta",
+            "latitude": 49.2850187,
+            "longitude": -0.2515068,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Goelette",
+            "latitude": 49.6571017,
+            "longitude": -1.6602252,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Cent Clochers",
+            "latitude": 49.4301954,
+            "longitude": 1.0851046,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Rougemont",
+            "latitude": 48.0201999,
+            "longitude": 0.156644,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Chantefontaine",
+            "latitude": 44.7374047,
+            "longitude": -0.6791954,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian HAD Essonne",
+            "latitude": 48.6914356,
+            "longitude": 2.3745265,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Siège Guersant",
+            "latitude": 48.8752538,
+            "longitude": 2.3022136,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Vergers",
+            "latitude": 48.2770276,
+            "longitude": 4.0372664,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Clinique de l'Ossau",
+            "latitude": 43.2539809,
+            "longitude": -0.3922726,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Marienia",
+            "latitude": 43.3494877,
+            "longitude": -1.4015381,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Fontaines",
+            "latitude": 43.5670298,
+            "longitude": 6.0105538,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Sitelle",
+            "latitude": 43.1264195006836,
+            "longitude": 5.81546898493722,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Claude Debussy",
+            "latitude": 43.2556632,
+            "longitude": 5.5563727,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Clos Serena",
+            "latitude": 44.8335512,
+            "longitude": -0.5846345,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa Castéra",
+            "latitude": 43.8062957,
+            "longitude": 0.4270376,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Siège Devecey",
+            "latitude": 47.32169,
+            "longitude": 6.019,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Place Royale",
+            "latitude": 49.2557287,
+            "longitude": 4.0356945,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Marisol",
+            "latitude": 48.9392943,
+            "longitude": 2.5362997,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Lauriers de Plaisance",
+            "latitude": 48.8590559,
+            "longitude": 2.5137562,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Jardins D'Alesia",
+            "latitude": 48.8306252,
+            "longitude": 2.3260498,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Hauts de L'Abbaye",
+            "latitude": 49.5364118,
+            "longitude": 0.1800259,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Jardin",
+            "latitude": 49.4208266,
+            "longitude": 1.0795495,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Siège Paris",
+            "latitude": 48.8752538,
+            "longitude": 2.3022136,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Home Cortefredone",
+            "latitude": 46.270579,
+            "longitude": 5.0986,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Claude Bernard",
+            "latitude": 45.7211289721925,
+            "longitude": 4.80878159564632,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Pays d'Ovalie",
+            "latitude": 43.6020703,
+            "longitude": 2.244866,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Catalaunes",
+            "latitude": 48.956682,
+            "longitude": 4.363073,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Mistral",
+            "latitude": 43.3375783,
+            "longitude": 5.4163829,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa Eyras",
+            "latitude": 43.113205,
+            "longitude": 6.1302703,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Chalet",
+            "latitude": 44.4483057,
+            "longitude": -0.7294487,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Nymphéas Bleus",
+            "latitude": 49.0912348,
+            "longitude": 1.4864458,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Haut du Bois",
+            "latitude": 48.6590334,
+            "longitude": 6.2067931,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Aurélias",
+            "latitude": 45.76214,
+            "longitude": 4.6578143,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Sainte Colombe",
+            "latitude": 48.2160754,
+            "longitude": 3.2708138,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Cap Sicie",
+            "latitude": 43.0825457,
+            "longitude": 5.8529635,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Brune",
+            "latitude": 48.8254469,
+            "longitude": 2.3167036,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Porte Océane",
+            "latitude": 49.4914542,
+            "longitude": 0.1020221,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Broceliande",
+            "latitude": 49.1816944,
+            "longitude": -0.4080797,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Résidence Maison Blanche",
+            "latitude": 47.3963815,
+            "longitude": 0.6532865,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Rives D'Esterel",
+            "latitude": 43.4402814,
+            "longitude": 6.7401212,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Valdonne",
+            "latitude": 43.3932553,
+            "longitude": 5.5768766,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Villa Mozart",
+            "latitude": 43.2710206,
+            "longitude": 3.2723353,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Coteaux de la Lèze",
+            "latitude": 43.3258227,
+            "longitude": 1.3205906,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Samara",
+            "latitude": 50.293853,
+            "longitude": 4.081866,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Siège Toulouse",
+            "latitude": 43.6521909,
+            "longitude": 1.4789969,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Magdeleine",
+            "latitude": 49.001806,
+            "longitude": 2.92663,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Cardinal",
+            "latitude": 46.6747417,
+            "longitude": -1.422659,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Beauregard",
+            "latitude": 45.0627308,
+            "longitude": 3.8966144,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Clématites",
+            "latitude": 43.7920884,
+            "longitude": 7.2725564,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa Bontemps",
+            "latitude": 44.8063552,
+            "longitude": -0.5742517,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Hauterive",
+            "latitude": 44.8479604,
+            "longitude": -0.5275188,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Siège Lyon",
+            "latitude": 45.7428092,
+            "longitude": 4.8181242,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Academy",
+            "latitude": 44.3736105,
+            "longitude": 4.7008096,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Sully",
+            "latitude": 48.9159938,
+            "longitude": 2.5252334,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Home de l'Oucherotte",
+            "latitude": 47.1803132,
+            "longitude": 5.1584864,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Siège Massy",
+            "latitude": 48.7263679504394,
+            "longitude": 2.26667881011962,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Parc de Mougins",
+            "latitude": 43.5756268,
+            "longitude": 6.9716795,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Home de l'Ebaupin",
+            "latitude": 46.3274826,
+            "longitude": -0.5875206,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian L'Epervier",
+            "latitude": 48.9332325,
+            "longitude": 2.430189,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Siège Massy",
+            "latitude": 48.7263679504394,
+            "longitude": 2.26667881011962,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa Bleue",
+            "latitude": 45.6881151,
+            "longitude": -0.1784747,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Amarantes",
+            "latitude": 47.3872099,
+            "longitude": 0.6938165,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Pontlieue",
+            "latitude": 47.9834837,
+            "longitude": 0.2100362,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Jardin De L'Andelle",
+            "latitude": 49.4162292,
+            "longitude": 1.3689714,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian L'Ermitage",
+            "latitude": 49.2101562,
+            "longitude": 1.1669388,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian L'Estran",
+            "latitude": 49.5711046,
+            "longitude": -1.8417143,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Côte Normande",
+            "latitude": 49.1481755,
+            "longitude": -0.3576882,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa Bérat",
+            "latitude": 49.1527954,
+            "longitude": 0.223781,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Jardin Atlantique",
+            "latitude": 47.2749855,
+            "longitude": -2.4372384,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Reine Mathilde",
+            "latitude": 49.1416052,
+            "longitude": -0.5263015,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Diamant",
+            "latitude": 48.4320729,
+            "longitude": 0.0729776,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa Saint Do",
+            "latitude": 49.4648596,
+            "longitude": 1.1169514,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Rive de Selune",
+            "latitude": 48.5343844,
+            "longitude": -0.8733461,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Au Fil Du Temps",
+            "latitude": 48.9543773,
+            "longitude": 2.8763908,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Quiéta",
+            "latitude": 48.7757103,
+            "longitude": 2.0374645,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Croisée Bleue",
+            "latitude": 48.9921778,
+            "longitude": 2.2786207,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Saules",
+            "latitude": 48.7814804,
+            "longitude": 2.0582389,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa Saint-Antoine",
+            "latitude": 48.8159762,
+            "longitude": 2.1273875,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa Pégase",
+            "latitude": 48.9534351,
+            "longitude": 2.1629943,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Tybilles",
+            "latitude": 48.8199408,
+            "longitude": 2.2329606,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa Victoria",
+            "latitude": 48.8467471,
+            "longitude": 2.5500795,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Champ de Mars",
+            "latitude": 48.8532584,
+            "longitude": 2.2957421,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Monceau",
+            "latitude": 48.8810472,
+            "longitude": 2.3043716,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Sarments",
+            "latitude": 48.8725514,
+            "longitude": 2.2264771,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Hauts d Andilly",
+            "latitude": 49.00381,
+            "longitude": 2.2992786,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Lilas",
+            "latitude": 48.9453603,
+            "longitude": 2.0351308,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Bois Clément",
+            "latitude": 48.777138,
+            "longitude": 3.3019569,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Pont",
+            "latitude": 48.9257862,
+            "longitude": 2.2148582,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Florian Carnot",
+            "latitude": 48.7593006,
+            "longitude": 2.3078371,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Grand Parc",
+            "latitude": 48.774807,
+            "longitude": 2.0716206,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Yvelines Sud",
+            "latitude": 48.7745171,
+            "longitude": 2.0712885,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Joncs Marins",
+            "latitude": 48.8526728,
+            "longitude": 2.5080778,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Canal de l'Ourcq",
+            "latitude": 48.8855973,
+            "longitude": 2.3883186,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Arcades",
+            "latitude": 48.8423608,
+            "longitude": 2.3852111,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Magenta",
+            "latitude": 48.8734082,
+            "longitude": 2.3590276,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Marette",
+            "latitude": 48.3563944,
+            "longitude": 2.1269726,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian L'Observatoire",
+            "latitude": 48.6922427,
+            "longitude": 2.3704195,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Hauts de Jardy",
+            "latitude": 48.8330292,
+            "longitude": 2.1523396,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Parc de l'Abbaye",
+            "latitude": 48.8037569,
+            "longitude": 2.0591223,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Lierres",
+            "latitude": 48.842394,
+            "longitude": 2.5095776,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian L'Impérial",
+            "latitude": 48.9092431,
+            "longitude": 2.2331295,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Château de Lormoy",
+            "latitude": 48.6361436,
+            "longitude": 2.2892718,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Castel Voltaire",
+            "latitude": 48.7981307,
+            "longitude": 2.2836646,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Fontdivina",
+            "latitude": 43.75047,
+            "longitude": 7.42407,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Clinidom",
+            "latitude": 45.7830856,
+            "longitude": 3.1334472,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Clos d'Armagnac",
+            "latitude": 43.93574,
+            "longitude": -0.0657348,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Entre Deux Mers",
+            "latitude": 44.692708,
+            "longitude": -0.0891409,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Chenaie",
+            "latitude": 43.6707426,
+            "longitude": 1.5124931,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Bois Long",
+            "latitude": 46.1383903,
+            "longitude": -0.6729691,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Croix Du Maréchal",
+            "latitude": 45.6481546,
+            "longitude": 0.2114556,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Maison Saint Martin",
+            "latitude": 44.1367136,
+            "longitude": 0.6589302,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Cheneraie",
+            "latitude": 43.4294841,
+            "longitude": 1.2258023,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Jardins D'Epargnes",
+            "latitude": 45.5642007,
+            "longitude": -0.8035921,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Roses Du Bassin",
+            "latitude": 44.6281366,
+            "longitude": -1.14945,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian C.3.S",
+            "latitude": 48.942781,
+            "longitude": 2.1612409,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Grands Crus",
+            "latitude": 47.3006429,
+            "longitude": 5.0195635,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Catalogne",
+            "latitude": 42.6989951,
+            "longitude": 2.8868987,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian L'Abbaye",
+            "latitude": 50.1778723,
+            "longitude": 3.4980112,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Maison Du Pays De Vergt",
+            "latitude": 45.0254208,
+            "longitude": 0.7196056,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Home du Vernay",
+            "latitude": 45.6510028,
+            "longitude": 6.4335895,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Parc aux Chênes",
+            "latitude": 48.5590641,
+            "longitude": 2.5966421,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Résidence Le Rosaire",
+            "latitude": 43.1186048,
+            "longitude": 5.7889221,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Roses",
+            "latitude": 48.7944902,
+            "longitude": 2.6120456,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa Thaïs",
+            "latitude": 44.9323857,
+            "longitude": 4.9060369,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Deux Lys",
+            "latitude": 46.0781125,
+            "longitude": 6.552944,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian L'Ormeau",
+            "latitude": 47.360632,
+            "longitude": 0.7508233,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Fontaine St Martin",
+            "latitude": 45.5638381,
+            "longitude": 5.9297783,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Dames Blanches",
+            "latitude": 47.3943801,
+            "longitude": 0.6747025,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Pays de la Plaine",
+            "latitude": 48.3549669,
+            "longitude": 5.689099,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa St Hilaire",
+            "latitude": 48.7923732,
+            "longitude": 2.504323,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Home du Verger",
+            "latitude": 46.7484791,
+            "longitude": -1.737221,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Passementerie",
+            "latitude": 45.4385397802441,
+            "longitude": 4.39010811840813,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Bergson",
+            "latitude": 45.4628431,
+            "longitude": 4.3800638,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Roger Salengro",
+            "latitude": 48.8870162,
+            "longitude": 2.4556593,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Alins Du Maréchal",
+            "latitude": 45.632246,
+            "longitude": 0.0375558,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Cèdres",
+            "latitude": 48.8863089,
+            "longitude": 2.5220591,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Bords de l'Isle",
+            "latitude": 45.1885032,
+            "longitude": 0.7398377,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Gerland",
+            "latitude": 45.7382005,
+            "longitude": 4.8393704,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Siège Aix en Provence",
+            "latitude": 43.4898359,
+            "longitude": 5.341256,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Albizias",
+            "latitude": 46.4656778,
+            "longitude": 1.0330043,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Trois Rives",
+            "latitude": 49.9848898,
+            "longitude": 1.5530295,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Tamias",
+            "latitude": 48.6808506,
+            "longitude": 2.5394714,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Portes de Sologne",
+            "latitude": 47.2232911,
+            "longitude": 2.0624887,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Bellevue",
+            "latitude": 44.6751684,
+            "longitude": 0.1906578,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian La Saulx",
+            "latitude": 48.6978645,
+            "longitude": 6.1237088,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Marie d'Albret",
+            "latitude": 45.5769648,
+            "longitude": -0.5494161,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian William Harvey",
+            "latitude": 49.1796015,
+            "longitude": -1.3302119,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Maison des Aulnes",
+            "latitude": 48.2717955,
+            "longitude": 6.977389,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Chandeniers",
+            "latitude": 47.0634605,
+            "longitude": 0.0197845,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Tamaris",
+            "latitude": 43.2712388,
+            "longitude": 3.2716046,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Val de Seine",
+            "latitude": 48.8646557,
+            "longitude": 2.1074367,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Le Gâtinais",
+            "latitude": 48.3965103,
+            "longitude": 2.375119,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Jardins du Charmois",
+            "latitude": 48.6682817,
+            "longitude": 6.170787,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Les Rives de l'Odon",
+            "latitude": 49.0953834,
+            "longitude": -0.5094001,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Villa des Cébrades",
+            "latitude": 45.1760252,
+            "longitude": 0.7255614,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Hameau de la Source",
+            "latitude": 45.7098539,
+            "longitude": 4.8590137,
+            "typeCode": "bill"
+        },
+        {
+            "displayName": "Korian Lo Solelh",
+            "latitude": 43.346392,
+            "longitude": 3.2293006,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Pins Bleus",
+            "latitude": 43.07541,
+            "longitude": 5.927237,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Frontenac",
+            "latitude": 43.241213,
+            "longitude": 2.122601,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Vernède",
+            "latitude": 43.23364,
+            "longitude": 2.433893,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Luberons",
+            "latitude": 43.6645911,
+            "longitude": 5.4422629,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Oliviers",
+            "latitude": 43.6620704,
+            "longitude": 5.4372055,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Domaine Saint-Michel",
+            "latitude": 43.6644863,
+            "longitude": 7.1822089,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Parents",
+            "latitude": 43.2810619,
+            "longitude": 5.3915337,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Perier",
+            "latitude": 43.2795335,
+            "longitude": 5.381525,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Bastion",
+            "latitude": 43.2104728,
+            "longitude": 2.3551828,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Meunières",
+            "latitude": 43.6756917,
+            "longitude": 4.13812,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Aubier de Cybèle",
+            "latitude": 43.4615796,
+            "longitude": 6.7675585,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Sorgentino",
+            "latitude": 43.7071802,
+            "longitude": 7.2880757,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian L'Agora",
+            "latitude": 43.5670696,
+            "longitude": 5.6142558,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Château des Ollières",
+            "latitude": 43.6948682,
+            "longitude": 7.2475577,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Mas de Lauze",
+            "latitude": 43.825481,
+            "longitude": 4.315163,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Trois Tours",
+            "latitude": 43.3807483,
+            "longitude": 5.5976562,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Centre SSR Les 4 Fontaines",
+            "latitude": 43.1592566,
+            "longitude": 2.9696789,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Jardins d'Hugo",
+            "latitude": 48.2846155,
+            "longitude": 4.0281147,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Château Lemoine",
+            "latitude": 44.8470633,
+            "longitude": -0.5294548,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa Louisa",
+            "latitude": 44.858736,
+            "longitude": -0.5694531,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa Gabriel",
+            "latitude": 44.7834589,
+            "longitude": -0.5986242,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Grand Maison",
+            "latitude": 43.6527575,
+            "longitude": 1.4795498,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Montpribat",
+            "latitude": 43.701002,
+            "longitude": -0.8528803,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Blés d'Or",
+            "latitude": 43.93836,
+            "longitude": 2.0779187,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa Lauragais",
+            "latitude": 43.4541874,
+            "longitude": 1.6109401,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Belvédère",
+            "latitude": 43.5978979,
+            "longitude": -1.4697017,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Grands Chênes",
+            "latitude": 44.8543542,
+            "longitude": -0.623355,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Flots",
+            "latitude": 44.8058939,
+            "longitude": -0.5740325,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Clos des Vignes",
+            "latitude": 47.0402192,
+            "longitude": 4.833771,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Villa Papyri",
+            "latitude": 46.7978251,
+            "longitude": 4.8534679,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Cassissines",
+            "latitude": 47.3534454,
+            "longitude": 5.0511608,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Bel'Saône",
+            "latitude": 46.7868523,
+            "longitude": 4.8559203,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Petit Castel",
+            "latitude": 47.3383604,
+            "longitude": 0.7363567,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Temps Bleus",
+            "latitude": 48.3139625,
+            "longitude": 0.813083,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Reine Blanche",
+            "latitude": 47.8611642,
+            "longitude": 1.8849814,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa D'Azon",
+            "latitude": 48.2142123,
+            "longitude": 3.2808631,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Bégonias",
+            "latitude": 45.9331556,
+            "longitude": -0.9708493,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Ajoncs",
+            "latitude": 46.2001607,
+            "longitude": -0.8164044,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Chamtou",
+            "latitude": 47.3378315,
+            "longitude": 0.7353776,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Roseraie",
+            "latitude": 48.7389902,
+            "longitude": 1.3739692,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa Evora",
+            "latitude": 48.4421165,
+            "longitude": 1.474778,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Rayon d'Or",
+            "latitude": 46.1915225,
+            "longitude": -1.1483646,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Parc De Gasville",
+            "latitude": 48.4897994,
+            "longitude": 1.4351717,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Issambres",
+            "latitude": 45.625601,
+            "longitude": -1.0268982,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Croix Périgourd",
+            "latitude": 47.4174188,
+            "longitude": 0.6555396,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Ménardière",
+            "latitude": 47.4232441,
+            "longitude": 0.6677562,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Côte Pavée",
+            "latitude": 43.5908469,
+            "longitude": 1.4795435,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Val du Fenouillet",
+            "latitude": 43.143095,
+            "longitude": 6.077814,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Chaintréauville",
+            "latitude": 48.2521423,
+            "longitude": 2.6922904,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Ferme du Marais",
+            "latitude": 48.5468432,
+            "longitude": 2.6382186,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa Spinale",
+            "latitude": 48.1624463,
+            "longitude": 6.4475416,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Doubs Rivage",
+            "latitude": 47.4979212,
+            "longitude": 6.8007024,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Plaisance",
+            "latitude": 48.6929932,
+            "longitude": 6.1923151,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian L'Air du Temps",
+            "latitude": 48.5998052,
+            "longitude": 7.7883068,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Vill'Alizé",
+            "latitude": 47.280741,
+            "longitude": 6.0781979,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Pastoria",
+            "latitude": 48.3008516,
+            "longitude": 4.0639809,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Samarobriva",
+            "latitude": 49.8964857,
+            "longitude": 2.2952993,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Marquises",
+            "latitude": 50.6649309,
+            "longitude": 3.0752722,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Gentile",
+            "latitude": 48.6959649,
+            "longitude": 6.1295389,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian L'Age Bleu",
+            "latitude": 50.692314,
+            "longitude": 3.1755024,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Rives de la Zorn",
+            "latitude": 48.7413559,
+            "longitude": 7.3533282,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Trois Sapins",
+            "latitude": 47.7991284,
+            "longitude": 7.1122254,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Fontanière",
+            "latitude": 45.8414664,
+            "longitude": 4.8548586,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian L'Isle Verte",
+            "latitude": 45.1980373,
+            "longitude": 5.7344301,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Annabelles",
+            "latitude": 45.7517914,
+            "longitude": 4.8559179,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Saison Dorée",
+            "latitude": 45.7359137,
+            "longitude": 4.8652915,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Saint François",
+            "latitude": 45.6523561,
+            "longitude": 4.8099888,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian L'Esconda",
+            "latitude": 46.3834702,
+            "longitude": 6.495925,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian L'Astrée",
+            "latitude": 45.4652562,
+            "longitude": 4.4005004,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa Ortis",
+            "latitude": 45.5040138,
+            "longitude": 4.9081693,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Bastide",
+            "latitude": 44.3669419,
+            "longitude": 4.6445807,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Drôme Provençale",
+            "latitude": 44.5912213,
+            "longitude": 4.9518922,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Gleteins",
+            "latitude": 45.9908287,
+            "longitude": 4.7581433,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa Janin",
+            "latitude": 45.4481679,
+            "longitude": 4.3896964,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Mounardière",
+            "latitude": 45.4699904,
+            "longitude": 4.3759642,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Mont Veyrier",
+            "latitude": 45.948243,
+            "longitude": 6.1481857,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa D'Albon",
+            "latitude": 46.039261,
+            "longitude": 4.0667726,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Bellecombe",
+            "latitude": 45.7613348,
+            "longitude": 4.849205,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Mas des Ainés",
+            "latitude": 43.2842596,
+            "longitude": 5.6206191,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Loubière",
+            "latitude": 43.3534214,
+            "longitude": 5.430915,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Val des Sources",
+            "latitude": 43.4305507,
+            "longitude": 5.4379486,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Pompignane",
+            "latitude": 43.6116761,
+            "longitude": 3.8991922,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Riviera",
+            "latitude": 43.6049065,
+            "longitude": 6.9882433,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Alpilles",
+            "latitude": 43.445742,
+            "longitude": 5.250586,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Côte Sauvage",
+            "latitude": 46.2049943,
+            "longitude": -1.5280818,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Mont Ventoux",
+            "latitude": 44.0532372,
+            "longitude": 5.0395694,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Bel Air",
+            "latitude": 48.8132087,
+            "longitude": 2.2584384,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Lilas Bleus",
+            "latitude": 45.7434896,
+            "longitude": 4.8472298,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Alcides",
+            "latitude": 43.537317,
+            "longitude": 5.037699,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Vençay",
+            "latitude": 47.3624372,
+            "longitude": 0.7496223,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Massilia Les Pins",
+            "latitude": 43.2538277,
+            "longitude": 5.4189906,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Clos d'Ypres",
+            "latitude": 45.7826886,
+            "longitude": 4.8174473,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Val Pré",
+            "latitude": 43.2990746,
+            "longitude": 5.5676811,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Cottage",
+            "latitude": 48.9404635,
+            "longitude": 2.2305588,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Grange des Prés",
+            "latitude": 49.1478744,
+            "longitude": 2.4432195,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Coeur Volant",
+            "latitude": 48.8662561,
+            "longitude": 2.1077733,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Jonquières",
+            "latitude": 43.5672542,
+            "longitude": 7.0154477,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Clairefontaine",
+            "latitude": 48.6122198,
+            "longitude": 1.9012406,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Mornay",
+            "latitude": 45.728767725323074,
+            "longitude": -0.6504629732200944,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Glanum",
+            "latitude": 43.7986608,
+            "longitude": 4.8343439,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Jardin de Neptune",
+            "latitude": 48.7856777,
+            "longitude": 2.4957708,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Saint-Charles",
+            "latitude": 48.7785689,
+            "longitude": 2.2856739,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Bonisiaca",
+            "latitude": 48.8902428,
+            "longitude": 2.4878425,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Tulipîer",
+            "latitude": 48.8643767,
+            "longitude": 2.4902837,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Merlettes",
+            "latitude": 48.9868687,
+            "longitude": 2.3723584,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian L'île de Migneaux",
+            "latitude": 48.9231019,
+            "longitude": 2.031925,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Mandoline",
+            "latitude": 48.8970537,
+            "longitude": 2.1489557,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Amandiers",
+            "latitude": 48.8653213,
+            "longitude": 2.3856542,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Saint-Simon",
+            "latitude": 48.8532458,
+            "longitude": 2.4085773,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa Impératrice",
+            "latitude": 48.8745674,
+            "longitude": 2.1837842,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Terrasses de Blandan",
+            "latitude": 45.7432878,
+            "longitude": 4.8506224,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Palatines",
+            "latitude": 43.7034639,
+            "longitude": 7.2870266,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Solisana",
+            "latitude": 47.9158522,
+            "longitude": 7.1942972,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Jardin de Brou",
+            "latitude": 46.1923146,
+            "longitude": 5.2371711,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa du Printemps",
+            "latitude": 47.0848453,
+            "longitude": 2.4160428,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Plessis",
+            "latitude": 47.3832742,
+            "longitude": 0.6616856,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Ranzay",
+            "latitude": 47.2527959,
+            "longitude": -1.5310668,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Corallines",
+            "latitude": 47.2880972,
+            "longitude": -2.3950349,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Val d'Essonne",
+            "latitude": 48.7655406,
+            "longitude": 1.9467108,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Bressane",
+            "latitude": 46.4842409,
+            "longitude": 5.2441334,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Tinailler",
+            "latitude": 46.3510814,
+            "longitude": 4.7950211,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Montvert",
+            "latitude": 43.6842823,
+            "longitude": 1.5528644,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Yvan Roque",
+            "latitude": 44.7287736,
+            "longitude": 0.6080009,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Richelieu",
+            "latitude": 46.674799,
+            "longitude": -1.42267,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Rimandière",
+            "latitude": 43.6343286,
+            "longitude": 4.8104979,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Montfrais",
+            "latitude": 48.9802312,
+            "longitude": 2.2349143,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Paquerie",
+            "latitude": 43.3280004,
+            "longitude": 5.448609,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Colombe",
+            "latitude": 43.5039523,
+            "longitude": 3.7103995,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Gardioles",
+            "latitude": 43.6917746,
+            "longitude": 3.8108589,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Fontaine Bazeille",
+            "latitude": 44.5331479,
+            "longitude": 0.0983177,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Trois Chemins",
+            "latitude": 47.0650905,
+            "longitude": 0.0186682,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Bleu d'Azur",
+            "latitude": 43.5583893,
+            "longitude": 6.9692004,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Coteaux de L'Yvette",
+            "latitude": 48.7042806,
+            "longitude": 2.1649681,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Mont Soleil",
+            "latitude": 44.4659218,
+            "longitude": 6.2247741,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Val de Saune",
+            "latitude": 43.5815495,
+            "longitude": 1.5203891,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Hameau",
+            "latitude": 44.288279,
+            "longitude": 0.508762,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Seillonne",
+            "latitude": 43.6259819,
+            "longitude": 1.5471854,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Grande Prairie",
+            "latitude": 49.2994504,
+            "longitude": 2.4670334,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Agapanthe",
+            "latitude": 46.564043,
+            "longitude": 0.3641058,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Bruyères",
+            "latitude": 45.965428,
+            "longitude": 4.515696,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Haut Lignon",
+            "latitude": 45.066618,
+            "longitude": 4.30524,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian L'Escale du Baou",
+            "latitude": 43.2347987,
+            "longitude": 5.4016773,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Le Doyenné de Langon",
+            "latitude": 44.5464004357808,
+            "longitude": -0.24454117304203,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Rivière Bleue",
+            "latitude": 49.7024011,
+            "longitude": 2.9350396,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Château des Landes",
+            "latitude": 47.674302,
+            "longitude": 1.975114,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Santel",
+            "latitude": 47.6900714,
+            "longitude": 2.6404012,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Val aux Fleurs",
+            "latitude": 48.9367692,
+            "longitude": 1.4192514,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Saint-François du Las",
+            "latitude": 43.1400661,
+            "longitude": 5.8853845,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Détente",
+            "latitude": 48.8889564,
+            "longitude": 2.7437747,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Vallée Bleue",
+            "latitude": 46.7306225,
+            "longitude": 2.5108779,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Flore",
+            "latitude": 48.70065,
+            "longitude": 2.4648253,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Alysses",
+            "latitude": 49.4700479,
+            "longitude": 2.491704,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Bords de la Marque",
+            "latitude": 50.6305048,
+            "longitude": 3.1882957,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Domaine",
+            "latitude": 48.3758002,
+            "longitude": 4.7347317,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Domaine de Collongue",
+            "latitude": 43.5338335,
+            "longitude": 5.509247,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Moussières",
+            "latitude": 45.5516834,
+            "longitude": 4.7177786,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa du Chêne d'Or",
+            "latitude": 48.0776365,
+            "longitude": -0.7078717,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Campelières",
+            "latitude": 43.5801433,
+            "longitude": 7.0077517,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Hameau d'Eguzon",
+            "latitude": 46.445313,
+            "longitude": 1.5782586,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Grand Mas",
+            "latitude": 43.6625187,
+            "longitude": 7.1888342,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Pinède",
+            "latitude": 43.1200727,
+            "longitude": 5.7812186,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Le Platane du Grand Parc",
+            "latitude": 44.8580097991956,
+            "longitude": -0.581754973034465,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa Amarelli",
+            "latitude": 49.2509057,
+            "longitude": 6.127207,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Restanques",
+            "latitude": 43.4506447,
+            "longitude": 5.0207627,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Louisiane",
+            "latitude": 43.1208236,
+            "longitude": 6.1129577,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Cotonnade",
+            "latitude": 47.761475255472625,
+            "longitude": 7.300037411697686,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Palmiers",
+            "latitude": 43.2190672,
+            "longitude": 5.6354576,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Buddléias",
+            "latitude": 46.4727388,
+            "longitude": 1.0743479,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Pays des images",
+            "latitude": 48.1690155,
+            "longitude": 6.4514853,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Baron",
+            "latitude": 47.8989259,
+            "longitude": 1.8855624,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian L'Oradou",
+            "latitude": 45.768113,
+            "longitude": 3.1079,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Carmel",
+            "latitude": 43.2355941,
+            "longitude": 0.0751296,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Lac",
+            "latitude": 47.6354157,
+            "longitude": 6.1059181,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Myrtilles",
+            "latitude": 45.9273449,
+            "longitude": 6.7171522,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Venise Verte",
+            "latitude": 46.3201627,
+            "longitude": -0.4763978,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Clairières aux Chênes",
+            "latitude": 46.6511543,
+            "longitude": 0.3749622,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Risle",
+            "latitude": 48.82054,
+            "longitude": 0.7141128,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Provençale",
+            "latitude": 43.3130796,
+            "longitude": 6.0082923,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Bois Robillard",
+            "latitude": 47.2369156,
+            "longitude": -1.5171088,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Filature",
+            "latitude": 47.7544096,
+            "longitude": 7.3491257,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Arbelles",
+            "latitude": 46.1943518,
+            "longitude": 5.2320349,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Golfe",
+            "latitude": 43.24859,
+            "longitude": 6.5378036,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Mas Blanc",
+            "latitude": 45.6884742,
+            "longitude": -0.1785052,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Jardin de Séréna",
+            "latitude": 48.5184097,
+            "longitude": 2.4468621,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Montjoy",
+            "latitude": 44.9115951,
+            "longitude": 6.6303568,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Hellenides",
+            "latitude": 43.8159473,
+            "longitude": 7.3433864,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Piétat",
+            "latitude": 43.20297,
+            "longitude": 0.1387,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Château",
+            "latitude": 43.4685874,
+            "longitude": 2.0829446,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Maison d'Emilienne",
+            "latitude": 44.7109809,
+            "longitude": 1.904558,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Condamine",
+            "latitude": 44.6739276,
+            "longitude": 4.2202213,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Baou",
+            "latitude": 43.2347987,
+            "longitude": 5.4016773,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Clos Montaigne",
+            "latitude": 45.6466811,
+            "longitude": 4.2343497,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Cyprès",
+            "latitude": 43.924467,
+            "longitude": 4.8842871,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Saint Maurice",
+            "latitude": 46.0005803,
+            "longitude": 1.4699737,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Alma Santé",
+            "latitude": 45.639204,
+            "longitude": 4.238558,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Pins Verts",
+            "latitude": 43.1832106,
+            "longitude": 2.9835716,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Gaston de Foix",
+            "latitude": 43.253017,
+            "longitude": 1.6714516,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Verdon",
+            "latitude": 43.7574757,
+            "longitude": 5.9091406,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Estela",
+            "latitude": 43.5567386,
+            "longitude": 1.4313173,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Claude Bernard",
+            "latitude": 45.720428,
+            "longitude": 4.8088269,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Sainte Geneviève",
+            "latitude": 48.4493586,
+            "longitude": 2.7661027,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Paloumère",
+            "latitude": 44.267667,
+            "longitude": 0.244494,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Terrasses du XXème",
+            "latitude": 48.8629233,
+            "longitude": 2.4034744,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Mathurins",
+            "latitude": 48.7938277,
+            "longitude": 2.3060675,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Bollée-Chanzy",
+            "latitude": 48.0037719,
+            "longitude": 0.202643,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Fils d'Argent",
+            "latitude": 46.4668331,
+            "longitude": -0.8307658,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Bourgenay",
+            "latitude": 46.4985193,
+            "longitude": -1.7791188,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa Balnéaire",
+            "latitude": 48.6320355,
+            "longitude": -2.0568035,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Solidor",
+            "latitude": 48.6321626,
+            "longitude": -2.0147188,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Gambetta",
+            "latitude": 50.6245004,
+            "longitude": 3.0521001,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa des Rèmes",
+            "latitude": 49.2528932,
+            "longitude": 4.0630461,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Georges Morchain",
+            "latitude": 50.1817815,
+            "longitude": 3.2210684,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Mélèzes",
+            "latitude": 48.7714225,
+            "longitude": 5.1808552,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Jardins d'Hestia",
+            "latitude": 45.7510679,
+            "longitude": 4.703259,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Parasols",
+            "latitude": 45.6155549,
+            "longitude": -0.9900805,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Môle d'Angoulins",
+            "latitude": 46.1043174,
+            "longitude": -1.1166658,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Saint-Jean Les Cèdres",
+            "latitude": 45.1611247,
+            "longitude": 1.5015112,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Sarmatia",
+            "latitude": 48.7863824,
+            "longitude": 4.9081511,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Deux Mers",
+            "latitude": 47.5282191,
+            "longitude": -2.7603898,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Fauvettes",
+            "latitude": 46.0029097,
+            "longitude": 5.0338136,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Halage",
+            "latitude": 50.3902861,
+            "longitude": 3.5397617,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Pays des trois provinces",
+            "latitude": 47.228408,
+            "longitude": 2.0504345,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Pays des quatre vents",
+            "latitude": 43.2221146,
+            "longitude": 2.3910241,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Clos de l'Orchidée",
+            "latitude": 43.1457319,
+            "longitude": 2.9707002,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Parc des dames",
+            "latitude": 48.9046309,
+            "longitude": 2.0735508,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Cap Ferrières",
+            "latitude": 43.4229712,
+            "longitude": 5.0387288,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Château de la Couldre",
+            "latitude": 48.7714063,
+            "longitude": 2.0256959,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Balcon Lyonnais",
+            "latitude": 45.7383278,
+            "longitude": 4.7865906,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Clos du Mûrier",
+            "latitude": 47.4035361,
+            "longitude": 0.6118216,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Clavette",
+            "latitude": 46.1395895,
+            "longitude": -1.0298337,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian L'Oregon",
+            "latitude": 46.1502269,
+            "longitude": 0.3040767,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Reflet de Loire",
+            "latitude": 47.8959036,
+            "longitude": 1.8393665,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Ville En Vert",
+            "latitude": 48.839027,
+            "longitude": 0.9101502,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Artémis",
+            "latitude": 47.9849699,
+            "longitude": 0.2826118,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Castelli",
+            "latitude": 48.0249026,
+            "longitude": -0.7720282,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Thalatta",
+            "latitude": 49.2850187,
+            "longitude": -0.2515068,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Goelette",
+            "latitude": 49.6571017,
+            "longitude": -1.6602252,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Cent Clochers",
+            "latitude": 49.4301954,
+            "longitude": 1.0851046,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Rougemont",
+            "latitude": 48.0201999,
+            "longitude": 0.156644,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Chantefontaine",
+            "latitude": 44.7374047,
+            "longitude": -0.6791954,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian HAD Essonne",
+            "latitude": 48.6914356,
+            "longitude": 2.3745265,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Siège Guersant",
+            "latitude": 48.8752538,
+            "longitude": 2.3022136,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Vergers",
+            "latitude": 48.2770276,
+            "longitude": 4.0372664,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Clinique de l'Ossau",
+            "latitude": 43.2539809,
+            "longitude": -0.3922726,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Marienia",
+            "latitude": 43.3494877,
+            "longitude": -1.4015381,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Fontaines",
+            "latitude": 43.5670298,
+            "longitude": 6.0105538,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Sitelle",
+            "latitude": 43.1264195006836,
+            "longitude": 5.81546898493722,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Claude Debussy",
+            "latitude": 43.2556632,
+            "longitude": 5.5563727,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Clos Serena",
+            "latitude": 44.8335512,
+            "longitude": -0.5846345,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa Castéra",
+            "latitude": 43.8062957,
+            "longitude": 0.4270376,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Siège Devecey",
+            "latitude": 47.32169,
+            "longitude": 6.019,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Place Royale",
+            "latitude": 49.2557287,
+            "longitude": 4.0356945,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Marisol",
+            "latitude": 48.9392943,
+            "longitude": 2.5362997,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Lauriers de Plaisance",
+            "latitude": 48.8590559,
+            "longitude": 2.5137562,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Jardins D'Alesia",
+            "latitude": 48.8306252,
+            "longitude": 2.3260498,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Hauts de L'Abbaye",
+            "latitude": 49.5364118,
+            "longitude": 0.1800259,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Jardin",
+            "latitude": 49.4208266,
+            "longitude": 1.0795495,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Siège Paris",
+            "latitude": 48.8752538,
+            "longitude": 2.3022136,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Home Cortefredone",
+            "latitude": 46.270579,
+            "longitude": 5.0986,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Claude Bernard",
+            "latitude": 45.7211289721925,
+            "longitude": 4.80878159564632,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Pays d'Ovalie",
+            "latitude": 43.6020703,
+            "longitude": 2.244866,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Catalaunes",
+            "latitude": 48.956682,
+            "longitude": 4.363073,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Mistral",
+            "latitude": 43.3375783,
+            "longitude": 5.4163829,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa Eyras",
+            "latitude": 43.113205,
+            "longitude": 6.1302703,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Chalet",
+            "latitude": 44.4483057,
+            "longitude": -0.7294487,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Nymphéas Bleus",
+            "latitude": 49.0912348,
+            "longitude": 1.4864458,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Haut du Bois",
+            "latitude": 48.6590334,
+            "longitude": 6.2067931,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Aurélias",
+            "latitude": 45.76214,
+            "longitude": 4.6578143,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Sainte Colombe",
+            "latitude": 48.2160754,
+            "longitude": 3.2708138,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Cap Sicie",
+            "latitude": 43.0825457,
+            "longitude": 5.8529635,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Brune",
+            "latitude": 48.8254469,
+            "longitude": 2.3167036,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Porte Océane",
+            "latitude": 49.4914542,
+            "longitude": 0.1020221,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Broceliande",
+            "latitude": 49.1816944,
+            "longitude": -0.4080797,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Résidence Maison Blanche",
+            "latitude": 47.3963815,
+            "longitude": 0.6532865,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Rives D'Esterel",
+            "latitude": 43.4402814,
+            "longitude": 6.7401212,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Valdonne",
+            "latitude": 43.3932553,
+            "longitude": 5.5768766,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Villa Mozart",
+            "latitude": 43.2710206,
+            "longitude": 3.2723353,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Coteaux de la Lèze",
+            "latitude": 43.3258227,
+            "longitude": 1.3205906,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Samara",
+            "latitude": 50.293853,
+            "longitude": 4.081866,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Siège Toulouse",
+            "latitude": 43.6521909,
+            "longitude": 1.4789969,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Magdeleine",
+            "latitude": 49.001806,
+            "longitude": 2.92663,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Cardinal",
+            "latitude": 46.6747417,
+            "longitude": -1.422659,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Beauregard",
+            "latitude": 45.0627308,
+            "longitude": 3.8966144,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Clématites",
+            "latitude": 43.7920884,
+            "longitude": 7.2725564,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa Bontemps",
+            "latitude": 44.8063552,
+            "longitude": -0.5742517,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Hauterive",
+            "latitude": 44.8479604,
+            "longitude": -0.5275188,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Siège Lyon",
+            "latitude": 45.7428092,
+            "longitude": 4.8181242,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Academy",
+            "latitude": 44.3736105,
+            "longitude": 4.7008096,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Sully",
+            "latitude": 48.9159938,
+            "longitude": 2.5252334,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Home de l'Oucherotte",
+            "latitude": 47.1803132,
+            "longitude": 5.1584864,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Siège Massy",
+            "latitude": 48.7263679504394,
+            "longitude": 2.26667881011962,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Parc de Mougins",
+            "latitude": 43.5756268,
+            "longitude": 6.9716795,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Home de l'Ebaupin",
+            "latitude": 46.3274826,
+            "longitude": -0.5875206,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian L'Epervier",
+            "latitude": 48.9332325,
+            "longitude": 2.430189,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Siège Massy",
+            "latitude": 48.7263679504394,
+            "longitude": 2.26667881011962,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa Bleue",
+            "latitude": 45.6881151,
+            "longitude": -0.1784747,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Amarantes",
+            "latitude": 47.3872099,
+            "longitude": 0.6938165,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Pontlieue",
+            "latitude": 47.9834837,
+            "longitude": 0.2100362,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Jardin De L'Andelle",
+            "latitude": 49.4162292,
+            "longitude": 1.3689714,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian L'Ermitage",
+            "latitude": 49.2101562,
+            "longitude": 1.1669388,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian L'Estran",
+            "latitude": 49.5711046,
+            "longitude": -1.8417143,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Côte Normande",
+            "latitude": 49.1481755,
+            "longitude": -0.3576882,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa Bérat",
+            "latitude": 49.1527954,
+            "longitude": 0.223781,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Jardin Atlantique",
+            "latitude": 47.2749855,
+            "longitude": -2.4372384,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Reine Mathilde",
+            "latitude": 49.1416052,
+            "longitude": -0.5263015,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Diamant",
+            "latitude": 48.4320729,
+            "longitude": 0.0729776,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa Saint Do",
+            "latitude": 49.4648596,
+            "longitude": 1.1169514,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Rive de Selune",
+            "latitude": 48.5343844,
+            "longitude": -0.8733461,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Au Fil Du Temps",
+            "latitude": 48.9543773,
+            "longitude": 2.8763908,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Quiéta",
+            "latitude": 48.7757103,
+            "longitude": 2.0374645,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Croisée Bleue",
+            "latitude": 48.9921778,
+            "longitude": 2.2786207,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Saules",
+            "latitude": 48.7814804,
+            "longitude": 2.0582389,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa Saint-Antoine",
+            "latitude": 48.8159762,
+            "longitude": 2.1273875,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa Pégase",
+            "latitude": 48.9534351,
+            "longitude": 2.1629943,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Tybilles",
+            "latitude": 48.8199408,
+            "longitude": 2.2329606,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa Victoria",
+            "latitude": 48.8467471,
+            "longitude": 2.5500795,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Champ de Mars",
+            "latitude": 48.8532584,
+            "longitude": 2.2957421,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Monceau",
+            "latitude": 48.8810472,
+            "longitude": 2.3043716,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Sarments",
+            "latitude": 48.8725514,
+            "longitude": 2.2264771,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Hauts d Andilly",
+            "latitude": 49.00381,
+            "longitude": 2.2992786,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Lilas",
+            "latitude": 48.9453603,
+            "longitude": 2.0351308,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Bois Clément",
+            "latitude": 48.777138,
+            "longitude": 3.3019569,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Pont",
+            "latitude": 48.9257862,
+            "longitude": 2.2148582,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Florian Carnot",
+            "latitude": 48.7593006,
+            "longitude": 2.3078371,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Grand Parc",
+            "latitude": 48.774807,
+            "longitude": 2.0716206,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Yvelines Sud",
+            "latitude": 48.7745171,
+            "longitude": 2.0712885,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Joncs Marins",
+            "latitude": 48.8526728,
+            "longitude": 2.5080778,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Canal de l'Ourcq",
+            "latitude": 48.8855973,
+            "longitude": 2.3883186,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Arcades",
+            "latitude": 48.8423608,
+            "longitude": 2.3852111,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Magenta",
+            "latitude": 48.8734082,
+            "longitude": 2.3590276,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Marette",
+            "latitude": 48.3563944,
+            "longitude": 2.1269726,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian L'Observatoire",
+            "latitude": 48.6922427,
+            "longitude": 2.3704195,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Hauts de Jardy",
+            "latitude": 48.8330292,
+            "longitude": 2.1523396,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Parc de l'Abbaye",
+            "latitude": 48.8037569,
+            "longitude": 2.0591223,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Lierres",
+            "latitude": 48.842394,
+            "longitude": 2.5095776,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian L'Impérial",
+            "latitude": 48.9092431,
+            "longitude": 2.2331295,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Château de Lormoy",
+            "latitude": 48.6361436,
+            "longitude": 2.2892718,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Castel Voltaire",
+            "latitude": 48.7981307,
+            "longitude": 2.2836646,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Fontdivina",
+            "latitude": 43.75047,
+            "longitude": 7.42407,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Clinidom",
+            "latitude": 45.7830856,
+            "longitude": 3.1334472,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Clos d'Armagnac",
+            "latitude": 43.93574,
+            "longitude": -0.0657348,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Entre Deux Mers",
+            "latitude": 44.692708,
+            "longitude": -0.0891409,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Chenaie",
+            "latitude": 43.6707426,
+            "longitude": 1.5124931,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Bois Long",
+            "latitude": 46.1383903,
+            "longitude": -0.6729691,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Croix Du Maréchal",
+            "latitude": 45.6481546,
+            "longitude": 0.2114556,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Maison Saint Martin",
+            "latitude": 44.1367136,
+            "longitude": 0.6589302,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Cheneraie",
+            "latitude": 43.4294841,
+            "longitude": 1.2258023,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Jardins D'Epargnes",
+            "latitude": 45.5642007,
+            "longitude": -0.8035921,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Roses Du Bassin",
+            "latitude": 44.6281366,
+            "longitude": -1.14945,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian C.3.S",
+            "latitude": 48.942781,
+            "longitude": 2.1612409,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Grands Crus",
+            "latitude": 47.3006429,
+            "longitude": 5.0195635,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Catalogne",
+            "latitude": 42.6989951,
+            "longitude": 2.8868987,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian L'Abbaye",
+            "latitude": 50.1778723,
+            "longitude": 3.4980112,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Maison Du Pays De Vergt",
+            "latitude": 45.0254208,
+            "longitude": 0.7196056,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Home du Vernay",
+            "latitude": 45.6510028,
+            "longitude": 6.4335895,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Parc aux Chênes",
+            "latitude": 48.5590641,
+            "longitude": 2.5966421,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Résidence Le Rosaire",
+            "latitude": 43.1186048,
+            "longitude": 5.7889221,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Roses",
+            "latitude": 48.7944902,
+            "longitude": 2.6120456,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa Thaïs",
+            "latitude": 44.9323857,
+            "longitude": 4.9060369,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Deux Lys",
+            "latitude": 46.0781125,
+            "longitude": 6.552944,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian L'Ormeau",
+            "latitude": 47.360632,
+            "longitude": 0.7508233,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Fontaine St Martin",
+            "latitude": 45.5638381,
+            "longitude": 5.9297783,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Dames Blanches",
+            "latitude": 47.3943801,
+            "longitude": 0.6747025,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Pays de la Plaine",
+            "latitude": 48.3549669,
+            "longitude": 5.689099,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa St Hilaire",
+            "latitude": 48.7923732,
+            "longitude": 2.504323,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Home du Verger",
+            "latitude": 46.7484791,
+            "longitude": -1.737221,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Passementerie",
+            "latitude": 45.4385397802441,
+            "longitude": 4.39010811840813,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Bergson",
+            "latitude": 45.4628431,
+            "longitude": 4.3800638,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Roger Salengro",
+            "latitude": 48.8870162,
+            "longitude": 2.4556593,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Alins Du Maréchal",
+            "latitude": 45.632246,
+            "longitude": 0.0375558,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Cèdres",
+            "latitude": 48.8863089,
+            "longitude": 2.5220591,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Bords de l'Isle",
+            "latitude": 45.1885032,
+            "longitude": 0.7398377,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Gerland",
+            "latitude": 45.7382005,
+            "longitude": 4.8393704,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Siège Aix en Provence",
+            "latitude": 43.4898359,
+            "longitude": 5.341256,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Albizias",
+            "latitude": 46.4656778,
+            "longitude": 1.0330043,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Trois Rives",
+            "latitude": 49.9848898,
+            "longitude": 1.5530295,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Tamias",
+            "latitude": 48.6808506,
+            "longitude": 2.5394714,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Portes de Sologne",
+            "latitude": 47.2232911,
+            "longitude": 2.0624887,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Bellevue",
+            "latitude": 44.6751684,
+            "longitude": 0.1906578,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian La Saulx",
+            "latitude": 48.6978645,
+            "longitude": 6.1237088,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Marie d'Albret",
+            "latitude": 45.5769648,
+            "longitude": -0.5494161,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian William Harvey",
+            "latitude": 49.1796015,
+            "longitude": -1.3302119,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Maison des Aulnes",
+            "latitude": 48.2717955,
+            "longitude": 6.977389,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Chandeniers",
+            "latitude": 47.0634605,
+            "longitude": 0.0197845,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Tamaris",
+            "latitude": 43.2712388,
+            "longitude": 3.2716046,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Val de Seine",
+            "latitude": 48.8646557,
+            "longitude": 2.1074367,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Le Gâtinais",
+            "latitude": 48.3965103,
+            "longitude": 2.375119,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Jardins du Charmois",
+            "latitude": 48.6682817,
+            "longitude": 6.170787,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Les Rives de l'Odon",
+            "latitude": 49.0953834,
+            "longitude": -0.5094001,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Villa des Cébrades",
+            "latitude": 45.1760252,
+            "longitude": 0.7255614,
+            "typeCode": "deliver"
+        },
+        {
+            "displayName": "Korian Hameau de la Source",
+            "latitude": 45.7098539,
+            "longitude": 4.8590137,
+            "typeCode": "deliver"
+        }
+    ]
+}

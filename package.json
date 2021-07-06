@@ -5,7 +5,7 @@
     "scripts": {
         "dev": "ts-node --project tsconfig.server.json server/index.ts",
         "build:app": "next build",
-        "build:db": "ts-node --project tsconfig.server.json server/db/index.ts",
+        "build:db": "ts-node --project tsconfig.server.json server/database/index.ts",
         "lint": "next lint",
         "start": "next start"
     },
