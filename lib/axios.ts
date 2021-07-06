@@ -15,7 +15,7 @@ const API = {
 
 API.nasa.interceptors.request.use((config: AxiosRequestConfig) => {
     config.params = {
-        api_key: 'hv8zQ2duuo1r9SCUIHdY3xIktyPPDRUjotggqjZV',
+        api_key: process.env.NASA_API_KEY,
         ...config.params
     };
     return config;

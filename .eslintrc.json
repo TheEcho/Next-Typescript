@@ -174,7 +174,17 @@
             "rules": {
                 "no-undef": "off",
                 "@next/next/no-img-element": "off",
-                "react/require-default-props": "off"
+                "react/require-default-props": "off",
+                "import/extensions": [
+                    "error",
+                    "ignorePackages",
+                    {
+                        "js": "never",
+                        "jsx": "never",
+                        "ts": "never",
+                        "tsx": "never"
+                    }
+                ]
             }
         }
     ]
